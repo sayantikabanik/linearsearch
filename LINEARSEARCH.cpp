@@ -18,11 +18,11 @@ int main(){
 			cout<<"FOUND";
 			flag=1;
 			break;
-			}
+		}
 	}
 	
 	if(flag==0)
 	cout<<"NOT FOUND";
 		
 	return 0;
-	}
+}
